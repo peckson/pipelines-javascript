@@ -5,6 +5,7 @@ For information on how to use this repository, see [JavaScript](https://docs.mic
 | Example | Build status |
 |---------|--------------|
 |Build | [![Build Status](https://dev.azure.com/ShitlhRP/myApp/_apis/build/status/peckson.pipelines-javascript)](https://dev.azure.com/ShitlhRP/myApp/_build/latest?definitionId=2)
+|Build | [![Build Status](https://dev.azure.com/ShitlhRP/myApp/_apis/build/status/peckson.pipelines-javascript)](https://dev.azure.com/ShitlhRP/myApp/_build/latest?definitionId=2)
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=7) |
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=8) |
 | Build image and push to Docker Hub | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=9) |
